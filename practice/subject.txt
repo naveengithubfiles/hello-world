@@ -1,0 +1,3 @@
+AWS Services are IAM,EC2,VPC,ALB,NLB,Security Groups,Internet Gateway(IGW),NAT GAteway,Route 53,S3,Auto Scaling,Cloudwatch,RDS,EFS,SNS..
+
+DevOps tools are Git,GitHub,Jenkins,Maven,Sonarqube,JFrog or Nexus,Docker, Docker Hub, Ansible, Kubernetes
